@@ -12,3 +12,5 @@ The official Scrum Guide authored by Ken Schwaber and Jeff Sutherland — a must
 🔧 Scrum.org – Resources
 Access free learning paths, articles, whitepapers, and assessments to enhance your Scrum knowledge.
 
+
+https://www.lucidchart.com/blog/how-to-create-a-work-breakdown-structure-and-why-you-should for WBS
